@@ -1,0 +1,18 @@
+body{
+	background: #3B5C66;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 48px;
+	text-align: center;
+	color: #F2F2F2;
+}
+
+header{
+	padding-top: 45px;
+}
+
+#time{
+	padding-top: 117px;
+}
